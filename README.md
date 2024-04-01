@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github respository files](https://your-solution-url.com)
-- Live Site URL: [Interactive rating component solution](https://your-live-site-url.com)
+- Solution URL: [Github respository files](https://github.com/EJMK18/FEM-interactive-rating-component)
+- Live Site URL: [Interactive rating component solution](https://ejmk18.github.io/FEM-interactive-rating-component/)
 
 ## My process
 
